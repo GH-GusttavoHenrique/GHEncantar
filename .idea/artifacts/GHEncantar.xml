@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GHEncantar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GHEncantar</output-path>
+    <root id="archive" name="GHEncantar.jar">
+      <element id="module-output" name="Bukkit" />
+      <element id="library" level="project" name="spigot-1.8" />
+      <element id="library" level="project" name="Vault" />
+    </root>
+  </artifact>
+</component>

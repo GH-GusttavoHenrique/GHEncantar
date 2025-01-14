@@ -1,0 +1,99 @@
+# Voce pode adicionar mais encantamentos
+# seguindo os padroes abaixo.
+
+# permissao: ghenchants.usecommand
+# permissao: ghenchants.usecommand.setexp
+# permissao: ghenchants.usecommand.addexp
+# permissao: ghenchants.usecommand.reloadplugin
+
+Inventory:
+  inventory-size: 45 # Os baús devem ter um tamanho múltiplo de 9. Ou seja 27 = 3 linhas de 9 slots.
+  inventory-name: 'Encante seus itens'
+
+PlayerInfoItem:
+  item-title: '&a{player}'
+  lore:
+    - "&7Suas informações,"
+    - "  &7Money: &a{money}"
+    - "  &7Exp: &e{exp}"
+  slot: 13
+
+Messages:
+  incomplete-command-reloadplugin: '&c&lERRO &cUse /ghenchat reload'
+  incomplete-command-setxp: '&c&lERRO &cUse: /setxp <player> <xp>'
+  incomplete-command-addxp: '&c&lERRO &cUse: /addxp <player> <xp>'
+  no-permission: '&cVoce nao tem permissão para fazer isso!'
+  no-exp: '&cVocê não tem&f %s &cXP para fazer isso!'
+  no-coins: '&cVocê não tem&f %s &ccoins!'
+  invalid-item: '&cVocê não tem item valido em mãos.'
+  alreadyenchanted: '&cEste item ja possui o encantamento&f %s&c.'
+  success: '&aO encantamento foi aplicado em seu item!'
+
+  # Items permitidos para encantamento
+Allowed-items:
+  - DIAMOND_SWORD
+  - DIAMOND_AXE
+  - DIAMOND_PICKAXE
+  - DIAMOND_HELMET
+  - DIAMOND_CHESTPLATE
+  - DIAMOND_LEGGINGS
+  - DIAMOND_BOOTS
+  - BOW
+  - DIAMOND_PICKAXE
+  - IRON_PICKAXE
+
+  # Lista de encantamentos: https://prnt.sc/10woz91
+  # Caso nao queira deixar por money ou xp, é só deixar 0 na opção.
+  # Exemplo, quero deixar por 100 coins e 0 gasto de xp, e assim vice e versa.
+  # price: 100
+  # xp: 0
+
+  # encantamentos (pode ser adicionado quantos quiser)
+items:
+  sharpness:
+    material: ENCHANTED_BOOK
+    name: '&cAfiação'
+    slot: 28
+    enchant: DAMAGE_ALL
+    enchantlevel: 4
+    price: 100
+    xp: 5
+    lore:
+      - ''
+      - ' &fClique para por &7afiação'
+      - ' &fem seu item'
+      - ''
+      - ' &fXp: &75'
+      - ' &fIsso irá custar&7 100&2R$'
+
+  inquebravel:
+    material: ENCHANTED_BOOK
+    name: '&cInquebravel'
+    slot: 29
+    enchant: DURABILITY
+    enchantlevel: 3
+    price: 100
+    xp: 5
+    lore:
+      - ''
+      - ' &fClique para por &7inquebravel'
+      - ' &fem seu item'
+      - ''
+      - ' &fXp: &75'
+      - ' &fIsso irá custar&7 100&2R$'
+
+  protection:
+    material: ENCHANTED_BOOK
+    name: '&cProteção'
+    slot: 30
+    enchant: PROTECTION_ENVIRONMENTAL
+    enchantlevel: 4
+    price: 100
+    xp: 5
+    lore:
+      - ''
+      - ' &fClique para por &7proteção'
+      - ' &fem seu item'
+      - ''
+      - ' &fXp: &75'
+      - ' &fIsso irá custar&7 100&2R$'
