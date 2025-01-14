@@ -12,7 +12,7 @@
 # Download
 
 - Baixe o plugin [aqui](https://github.com/GH-GusttavoHenrique/GHEncantar/raw/main/GHEncantar.jar)
-  **DEPENDENCIAS:** Vault 
+- **DEPENDECIAS:** Vault, Plugin de money
 
 # Updates
 
