@@ -11,7 +11,7 @@
 
 # Download
 
-- Baixe o plugin [aqui](https://github.com/GH-GusttavoHenrique/GHEnchant/raw/main/GHEncantar.jar).
+- Baixe o plugin [aqui](https://github.com/GH-GusttavoHenrique/GHEncantar/raw/main/GHEncantar.jar).
 
 # Updates
 
