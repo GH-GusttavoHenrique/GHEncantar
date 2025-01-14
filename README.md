@@ -1,9 +1,8 @@
 # GHEncantar
 
-- **Discord da NextPlugins:** Loja de plugins, [discord](https://nextplugins.com.br/discord).
-- **Config do GHEnchant** Pastebin da [config](https://pastebin.com/xjUL9HVB).
+- **Config do GHEncantar** Pastebin da [config](https://pastebin.com/HJaKJzpx).
 - **Meu Discord** para contato: mutamex
-- **Video demonstrativo** Clique no botao [video](https://www.youtube.com/watch?v=qG6IsD_TS_k) para visualizar o video demonstrativo do plugin.
+- **Video demonstrativo** Clique no botao [video](https://www.youtube.com/watch?v=qG6IsD_TS_k) para visualizar o video demonstrativo do plugin. (desatualizado)
 
 # Prints do plugin
 
@@ -12,6 +11,7 @@
 # Download
 
 - Baixe o plugin [aqui](https://github.com/GH-GusttavoHenrique/GHEncantar/raw/main/GHEncantar.jar)
+  
 - **DEPENDECIAS:** Vault, Plugin de money
 
 # Updates
