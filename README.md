@@ -7,11 +7,12 @@
 
 # Prints do plugin
 
-- Para ver as prints do plugin basta clicar [aqui](https://imgur.com/a/ud0iiKc).
+- Para ver as prints do plugin basta clicar [aqui](https://imgur.com/a/plugin-de-minecraft-1-8-ghencantar-IeJYlWB?third_party=1).
 
 # Download
 
-- Baixe o plugin [aqui](https://github.com/GH-GusttavoHenrique/GHEncantar/raw/main/GHEncantar.jar).
+- Baixe o plugin [aqui](https://github.com/GH-GusttavoHenrique/GHEncantar/raw/main/GHEncantar.jar)
+  **DEPENDENCIAS:** Vault 
 
 # Updates
 
