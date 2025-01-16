@@ -2,7 +2,7 @@
 
 - **Config do GHEncantar** Pastebin da [config](https://pastebin.com/HJaKJzpx).
 - **Meu Discord** para contato: mutamex
-- **Video demonstrativo** Clique no botao [video](https://www.youtube.com/watch?v=qG6IsD_TS_k) para visualizar o video demonstrativo do plugin. (desatualizado)
+- **Video demonstrativo** Clique no botao [video](https://www.youtube.com/watch?v=lVEi_WqQlzY&t=44s) para visualizar o video demonstrativo do plugin.
 
 # Prints do plugin
 
