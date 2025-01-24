@@ -21,7 +21,9 @@
 12/01/2025
 - Adicionado o comando /ghencantar reload;
 - Adicionado uma lista de items permitidos na config, uma vez que qualquer item podia ser encantado;
+ 
 ![image](https://github.com/user-attachments/assets/591f87b8-fff4-48c0-8321-18f112e82efb)
+
 - Adicionado diversas correções, visando estética e otimização;
 - PlayerInfoItem totalmente reformulado, agora com a cabeça de jogador e lore customizavel com variaveis; +
 - Código reformulado e otimizado;
